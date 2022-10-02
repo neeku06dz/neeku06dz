@@ -19,22 +19,16 @@
 
 <p align="left">
     <!-- twitter -->
-    <a href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/b3/8a/c2/b38ac2d567491af5549b808af94e1175.gif" alt="rishavchanda" width="40" /></a>
+    <a href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/b3/8a/c2/b38ac2d567491af5549b808af94e1175.gif" alt=coming soon" width="40" /></a>
     <!-- linkdin -->
-    <a href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/b3/24/ed/b324ed61cd202a65dc75f04a7577d032.gif" alt="rishav-chanda-b89a791b3" width="40" /></a>
+    <a href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/b3/24/ed/b324ed61cd202a65dc75f04a7577d032.gif" alt="rishav-chacoming soon" width="40" /></a>
     <!-- instagram -->
     <a href="https://instagram.com/neeku_06dz" target="blank"><img align="center" src="https://i.pinimg.com/originals/eb/52/ce/eb52ced4439b985bf6a415384b1733ba.gif" width="40" /></a>
     <!-- youtube -->
-    <a href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/e6/3a/49/e63a49c4c2a61e438c37678f42186878.gif" alt="rishav chanda" width="40" /></a>
+    <a href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/e6/3a/49/e63a49c4c2a61e438c37678f42186878.gif" alt="coming soon" width="40" /></a>
     <!-- facebook -->
-    <a href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/09/9a/8a/099a8a5d477001a024a19362ba91ae2e.gif" alt="rishav chanda" width="40" /></a>
+    <a href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/09/9a/8a/099a8a5d477001a024a19362ba91ae2e.gif" alt="coming soon" width="40" /></a>
 </p>
-
-
-
-
-    ---- facebook ----
-<a href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/09/9a/8a/099a8a5d477001a024a19362ba91ae2e.gif" alt="coming soon" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
