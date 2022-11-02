@@ -29,7 +29,7 @@
     <!-- linkdin -->
     <a href="" target="_blank"><img align="center" src="https://i.pinimg.com/originals/b3/24/ed/b324ed61cd202a65dc75f04a7577d032.gif" alt="linkdin link coming soon" width="40" /></a>
     <!-- instagram -->
-    <a href="https://instagram.com/neeku_06dz" target="_blank"><img align="center" src="https://i.pinimg.com/originals/eb/52/ce/eb52ced4439b985bf6a415384b1733ba.gif" alt="neeku_06dz" width="40" /></a>
+    <a href="https://instagram.com/neekuo6dz" target="_blank"><img align="center" src="https://i.pinimg.com/originals/eb/52/ce/eb52ced4439b985bf6a415384b1733ba.gif" alt="neeku_06dz" width="40" /></a>
     <!-- youtube -->
     <a href="https://www.youtube.com/channel/UC848xWXVTUZjK21Xac4ZuVw/featured" target="_blank"><img align="center" src="https://i.pinimg.com/originals/e6/3a/49/e63a49c4c2a61e438c37678f42186878.gif" alt="youtube link coming soon" width="40" /></a>
     <!-- facebook -->
