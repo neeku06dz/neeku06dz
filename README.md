@@ -42,7 +42,7 @@
 
 <!-- most use Languages -->
 ## Most use Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neeku06dz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="neeku06dz"/>
+
 
 
 <!-- girhub stats -->
