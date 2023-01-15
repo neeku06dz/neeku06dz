@@ -21,7 +21,7 @@
 
 
 <!------ connect with me ------>
-## Connect with Me: <img src = "" width = 24px>
+## Connect with Me: <img src = "https://github.com/neeku06dz/neeku06dz/blob/main/contacts.gif" width = 24px>
 
 <p align="left">
     <!-- twitter -->
