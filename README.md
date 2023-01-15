@@ -21,7 +21,7 @@
 
 
 <!------ connect with me ------>
-## Connect with Me:
+## Connect with Me: <img src = "" width = 24px>
 
 <p align="left">
     <!-- twitter -->
