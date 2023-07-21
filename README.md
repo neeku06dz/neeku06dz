@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/fe/18/23/fe182374f1ac30bd80dfae7f3768334b.gif">
+<img profileBanner.webp">
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
