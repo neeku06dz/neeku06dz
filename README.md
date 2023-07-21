@@ -1,4 +1,3 @@
-
 <img src="Banner.png"/>
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -24,16 +23,16 @@
 ## Connect with Me: <img src = "https://github.com/neeku06dz/neeku06dz/blob/main/contacts.gif" width = 24px>
 
 <p align="left">
-    <!-- twitter -->
-    <a href="" target="_blank"><img align="center" src="https://i.pinimg.com/originals/b3/8a/c2/b38ac2d567491af5549b808af94e1175.gif" alt="twitter link coming soon" width="40" /></a>
+    <!-- twitter 
+    <a href="" target="_blank"><img align="center" src="https://github.com/neeku06dz/neeku06dz/blob/main/linkedin.png" alt="twitter link coming soon" width="40" /></a> -->
     <!-- linkdin -->
-    <a href="" target="_blank"><img align="center" src="https://i.pinimg.com/originals/b3/24/ed/b324ed61cd202a65dc75f04a7577d032.gif" alt="linkdin link coming soon" width="40" /></a>
+    <a href="" target="_blank"><img align="center" src="https://github.com/neeku06dz/neeku06dz/blob/main/linkedin.png" alt="linkdin link coming soon" width="40" /></a>
     <!-- instagram -->
-    <a href="https://instagram.com/neekuo6dz" target="_blank"><img align="center" src="https://i.pinimg.com/originals/eb/52/ce/eb52ced4439b985bf6a415384b1733ba.gif" alt="neeku_06dz" width="40" /></a>
+    <a href="https://instagram.com/neekuo6dz" target="_blank"><img align="center" src="https://github.com/neeku06dz/neeku06dz/blob/main/instagram.png" alt="neeku_06dz" width="40" /></a>
     <!-- youtube -->
-    <a href="https://www.youtube.com/channel/UC848xWXVTUZjK21Xac4ZuVw/featured" target="_blank"><img align="center" src="https://i.pinimg.com/originals/e6/3a/49/e63a49c4c2a61e438c37678f42186878.gif" alt="youtube link coming soon" width="40" /></a>
-    <!-- facebook -->
-    <a href="" target="_blank"><img align="center" src="https://i.pinimg.com/originals/09/9a/8a/099a8a5d477001a024a19362ba91ae2e.gif" alt="facebook link coming soon" width="40" /></a>
+    <a href="https://www.youtube.com/channel/UC848xWXVTUZjK21Xac4ZuVw/featured" target="_blank"><img align="center" src="https://github.com/neeku06dz/neeku06dz/blob/main/youtube.png" alt="youtube link coming soon" width="40" /></a>
+    <!-- facebook 
+    <a href="" target="_blank"><img align="center" src="https://i.pinimg.com/originals/09/9a/8a/099a8a5d477001a024a19362ba91ae2e.gif" alt="facebook link coming soon" width="40" /></a> -->
 </p>
 
 <!-- Languages and Tools -->
