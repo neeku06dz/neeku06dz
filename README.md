@@ -26,9 +26,9 @@
     <!-- twitter 
     <a href="" target="_blank"><img align="center" src="https://github.com/neeku06dz/neeku06dz/blob/main/linkedin.png" alt="twitter link coming soon" width="40" /></a> -->
     <!-- linkdin -->
-    <a href="" target="_blank"><img align="center" src="https://github.com/neeku06dz/neeku06dz/blob/main/linkedin.png" alt="linkdin link coming soon" width="40" /></a>
+    <a href="https://www.linkedin.com/in/neeraj-kumar-09b26522a/" target="_blank"><img align="center" src="https://github.com/neeku06dz/neeku06dz/blob/main/linkedin.png" alt="linkdin link coming soon" width="40" /></a>
     <!-- instagram -->
-    <a href="https://instagram.com/neekuo6dz" target="_blank"><img align="center" src="https://github.com/neeku06dz/neeku06dz/blob/main/instagram.png" alt="neeku_06dz" width="40" /></a>
+    <a href="https://instagram.com/neeku06dz" target="_blank"><img align="center" src="https://github.com/neeku06dz/neeku06dz/blob/main/instagram.png" alt="neeku_06dz" width="40" /></a>
     <!-- youtube -->
     <a href="https://www.youtube.com/channel/UC848xWXVTUZjK21Xac4ZuVw/featured" target="_blank"><img align="center" src="https://github.com/neeku06dz/neeku06dz/blob/main/youtube.png" alt="youtube link coming soon" width="40" /></a>
     <!-- facebook 
