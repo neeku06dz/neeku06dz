@@ -42,9 +42,17 @@
 
 <!-- girhub stats -->
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 24px>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeku06dz&show_icons=true&locale=en&theme=tokyonight" alt="neeku06dz">
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeku06dz&&theme=tokyonight" alt="neeku06dz"></p>
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neeku06dz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=My GitHub Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neeku06dz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=neeku06dz&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+###
 
 
 
